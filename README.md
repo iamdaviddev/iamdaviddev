@@ -14,15 +14,15 @@
 
 <h2 align="left">Socials</h2>
 <div align="left">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" href="https://www.instagram.com/gerson.paulo16/" height="40" alt="instagram logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" href="https://x.com/iamgerson01?s=09" height="40" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" href="https://www.linkedin.com/in/gerson-ndombaxi-7b4867212/" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo"  />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" href="https://www.facebook.com/profile.php?id=61550065436709" height="40" alt="facebook logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" href="https://discord.com/channels/@gerux114" height="40" alt="discord logo"  />
 </div>
 
 ###
